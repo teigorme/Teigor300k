@@ -1,4 +1,4 @@
-### Hi, Welcome to my profile and my is Igor Teixeira 👋
+### Hi, Welcome to my profile and my name is Igor Teixeira 👋
 
 
 - 🔭 I’m currently working on my life
