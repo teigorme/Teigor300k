@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats  
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teigorme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=teigorme&theme=radical"/>
+  
 </div>  
 
 ---
@@ -54,4 +54,3 @@
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=teigorme)
