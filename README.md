@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in my life
 - 🌱 I’m currently learning NodeJS
-- 💬 Ask me about my job
+- 💬 Ask me about nothing
 - 😄 Get Rich or Die Trying
 
 
