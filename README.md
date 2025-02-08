@@ -29,13 +29,6 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
----
-
-### 📊 GitHub Stats  
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teigorme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-</div>  
 
 ---
 
